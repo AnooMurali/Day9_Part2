@@ -12,7 +12,7 @@ header{
 }
 /*Styling the navigation boxes*/
 div.menu{
-	width: 100px;height: 210px;
+	width: 130px;height: 210px;
 	float: left;
 	transition: height: .4s;  /*  to change property values smoothly when resizing the div */
 }
